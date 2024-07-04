@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Daniel Napoli 😁
+## Bem-vindo(a) ao perfil do Daniel Napoli
 
  <div>
    <a href="https://github.com/Daninapoli97">
